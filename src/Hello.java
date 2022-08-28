@@ -4,7 +4,7 @@
  * 
  * @author csfog or Carter Fogle
  * 
- * Program is being used to help my understanding of git repos
+ * 
  *
  */
 public class Hello {
@@ -13,6 +13,8 @@ public class Hello {
 		
 		System.out.println("Carter Fogle");
 		System.out.println("Computer Engineering");
+		
+		//print your major and name here
 		
 
 	}
